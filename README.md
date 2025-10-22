@@ -1,5 +1,5 @@
 # ZOO online
-**ZOO online** to prosta strona interetowa prezentująca wirtualne zoo.
+**ZOO online** to prosta strona interetowa prezentująca wirtualne zoo, dostępna na [GitHub Pages](https://magdamadejwsb.github.io/NWWO_INLS3_SI/)
 
 ## Spis treści
 - [Opis projektu](#opis-projektu)
